@@ -1,0 +1,28 @@
+{
+  "name": "todo_list9",
+  "version": "1.0.0",
+  "description": "A simple manage of to do list",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "list",
+    "to",
+    "do"
+  ],
+  "author": "Salvatore Bonaccorso",
+  "license": "MIT",
+  "dependencies": {
+    "mocha": "^5.2.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SalvatoreBonaccorso/ToDo_list.git"
+  },
+  "bugs": {
+    "url": "https://github.com/SalvatoreBonaccorso/ToDo_list/issues"
+  },
+  "homepage": "https://github.com/SalvatoreBonaccorso/ToDo_list#readme"
+}
